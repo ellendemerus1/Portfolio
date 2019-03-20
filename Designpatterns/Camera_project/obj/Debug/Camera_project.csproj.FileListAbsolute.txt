@@ -1,0 +1,7 @@
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\bin\Debug\Camera_project.exe.config
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\bin\Debug\Camera_project.exe
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\bin\Debug\Camera_project.pdb
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\obj\Debug\Camera_project.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\obj\Debug\Camera_project.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\obj\Debug\Camera_project.exe
+C:\Users\ellen\source\repos\Ellen_Demerus_Inlamning\Camera_project\obj\Debug\Camera_project.pdb
