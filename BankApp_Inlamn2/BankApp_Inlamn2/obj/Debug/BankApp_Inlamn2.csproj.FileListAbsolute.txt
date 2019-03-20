@@ -1,0 +1,32 @@
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\bankdata-small.txt
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe.config
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\bin\Debug\bankdata-small.txt
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe.config
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\BankApp_Inlamn2 - kopia\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\bankdata-small.txt
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe.config
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\bankdata-small.txt
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe.config
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\bin\Debug\BankApp_Inlamn2.pdb
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.exe
+C:\Users\ellen\source\repos\Tidigare kurser\C-sharp\Inlämningsuppgifter\BankApp_Inlamn2\BankApp_Inlamn2\obj\Debug\BankApp_Inlamn2.pdb
