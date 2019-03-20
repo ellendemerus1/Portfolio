@@ -1,0 +1,26 @@
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\bin\Debug\Receptsamling.exe.config
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\bin\Debug\Receptsamling.exe
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\bin\Debug\Receptsamling.pdb
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmSkapaRecept.resources
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmStart.resources
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.Properties.Resources.resources
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csproj.GenerateResource.cache
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.exe
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.pdb
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmReceptVy.resources
+C:\Users\ellen\source\repos\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmRedigeraRecept.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\bin\Debug\Receptsamling.exe.config
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\bin\Debug\Receptsamling.exe
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\bin\Debug\Receptsamling.pdb
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csprojAssemblyReference.cache
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmReceptVy.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmRedigeraRecept.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmSkapaRecept.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.frmStart.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.Properties.Resources.resources
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csproj.GenerateResource.cache
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.exe
+C:\Users\ellen\source\repos\Tidigare kurser\Databaser\Div Databas-övningar\Receptsamling\Receptsamling\obj\Debug\Receptsamling.pdb
