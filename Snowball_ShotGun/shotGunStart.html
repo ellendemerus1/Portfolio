@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Snowball Shotgun</title>
+    <script src="player.js" defer></script>
+    <script src="enemy.js" defer></script>
+    <script src="game.js" defer></script>
+    <script src="start.js" defer></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+    <link href="shotGun.css" rel="stylesheet"/>
+</head>
+<body>
+<header><h1>Welcome to Snowball Shotgun</h1><br>
+    <div id="responseDiv"></div>
+</header>
+<div id="firstDiv">    
+    <h4>Your snowballs:</h4><br>
+    <div id="playerSnowballs" class="snowBallCounter">0</div>
+</div>
+<div id="secondDiv">
+    <h3>Click your move:</h3><br>
+    <button type="button" class="bigButton" id="0">SQUEEZE</button><br>
+    <button type="button" class="bigButton" id="1">BLOCK</button><br>
+    <button type="button" class="bigButton" id="2">THROW</button><br>
+</div>
+<div id="thirdDiv">
+    <h4>Enemy's snowballs:</h4><br>
+    <div id="enemyPlayerSnowballs" class="snowBallCounter">0</div>
+    <div id="enemysMoveDiv"></div>
+</div>
+</body>
+</html>
