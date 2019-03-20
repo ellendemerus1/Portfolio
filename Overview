@@ -1,0 +1,24 @@
+Förklarande texter kring mina projekt:
+
+Design Patterns: 
+Observer pattern: använder jag för att hantera en-till-många relationen mellan monitor och kameror. 
+Factory pattern: för att skapa kameraobjekt på ett frikopplat sätt. 
+Facade pattern: för att frikoppla Cameraklasserna från Camera-API:t. 
+Jag har ett interface för Camera-objektet och ett interface för Camera-fasaderna. 
+Har alltså skapat två fasader (deriverade från ICamFacade) - OutdoorCamFacade och IndoorCamFacade - 
+och de håller direkta associationer till alla klasser i Camera-API:t. 
+På så vis slipper kameraklasserna direkta associationer till Camera-API:t - 
+istället injicerar jag ett objekt av ICamFacade i kameraklasserna, genom constructor injection.
+
+Receptsamling: 
+Detta projekt är gjort i Visual Studio under Nackademins kurs i databaser. 
+Projektet är kopplat till en lokal databas, så koden är bara körbar vid tillgång till databasen.
+
+Snowball Shotgun: 
+Enkelt spel, Frontend (JavaScript, HTML och CSS).
+
+Application for bank: 
+En textbaserad bank-app från vår första kurs på Nackademin (C#).
+
+Blogg: 
+En webbsida i MVC (Model View Controller).
