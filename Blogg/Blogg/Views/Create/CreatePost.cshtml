@@ -1,0 +1,40 @@
+﻿@model Blogg.ViewModels.ListViewModel
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div id="createForm">
+    <form asp-controller="Create" asp-action="CreatePost" method="post">
+
+        <h4><label>Välj en kategori:</label></h4>
+        <br />
+        @foreach (var cat in Model.Categories)
+        {
+            <input type="radio" value="@cat.CategoryId" asp-for="@Model.NewPost.CategoryId" /> <span>@cat.CategoryName</span>
+        }
+        <br /><br />
+
+
+        <h4><label>Ange rubrik:</label></h4>
+        <br />
+
+        <textarea id="PostHeader" asp-for="NewPost.Header" cols="50" maxlength="50"></textarea>
+        <br />
+        <span id="counter">0/50</span>
+        <span class="bold warning" asp-validation-for="NewPost.Header"></span>
+
+
+        <br /><br />
+
+        <h4><label>Skriv inlägg:</label></h4>
+        <br />
+        <textarea id="PostText" asp-for="NewPost.Text" cols="50" rows="10" maxlength="2000"></textarea>
+        <br />
+        <span id="counter2">0/2000</span>
+        <span class="bold warning" asp-validation-for="NewPost.Text"></span>
+
+
+        <br /><br />
+
+        <input type="submit" value="Spara inlägg" />
+    </form>
+</div>

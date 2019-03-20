@@ -1,0 +1,15 @@
+﻿@model Blogg.Models.Post
+
+
+<table>
+    <tr>
+        <td><h3>@Model.Header</h3></td>
+    </tr>
+    <tr>
+        <td><p>@Model.Time.ToString("MM/dd/yyyy HH:mm")</p></td>
+    </tr>
+    <tr>
+        <td><p>@Model.Text</p></td>
+    </tr>
+
+</table>

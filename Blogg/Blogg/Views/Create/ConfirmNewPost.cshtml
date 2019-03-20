@@ -1,0 +1,22 @@
+﻿@model Blogg.ViewModels.ListViewModel
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div id="searchResult">
+    <h3 class="white">Ditt inlägg är sparat:</h3>
+    <table>
+        <tr>
+            <td><h3>Språk: @Model.NewPost.Category.CategoryName</h3></td>
+        </tr>
+        <tr>
+            <td><h2>@Model.NewPost.Header</h2></td>
+        </tr>
+        <tr>
+            <td><p>@Model.NewPost.Time.ToString("MM/dd/yyyy HH:mm")</p></td>
+        </tr>
+        <tr>
+            <td><p>@Model.NewPost.Text</p></td>
+        </tr>
+
+    </table>
+</div>
